@@ -1,0 +1,19 @@
+.App{
+  margin: 5% 0% 0% 10%;
+  color: red;
+}
+.message-area{
+  display: flex;
+}
+.message-area input{
+  width: 30%;
+  border-radius:5px ;
+  outline: none;
+  border:1px solid black;
+  padding: 0.5%;
+  margin-right: 0.5%;
+}
+.time{
+  font-size: xx-small;
+  margin-left: 10%;
+}
